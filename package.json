@@ -13,7 +13,6 @@
   "author": "Henry",
   "license": "ISC",
   "jest": {
-    "testURL": "http://localhost/"
   },
   "dependencies": {
     "@11ty/eleventy": "^1.0.0",
